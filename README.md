@@ -8,7 +8,7 @@ Welcome to **BeaconStories**, a project built with **HTML** and **CSS** to creat
 
 ## About
 
-**BeaconStories** is a web-based project designed to [insert purpose of your project here]. This repository contains all the code and assets needed to build and deploy the application.
+**BeaconStories** is a web-based project designed to let children publish their stories. This repository contains all the code and assets needed to build and deploy the application.
 
 ### Technologies Used
 
