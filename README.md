@@ -2,7 +2,7 @@
 
 Welcome to **BeaconStories**, a project built with **HTML** and **CSS** to create engaging and visually appealing web experiences.
 
-![Project Banner](#) <!-- Replace # with a link to your project banner image -->
+![Project Banner](logo.png) <!-- Replace # with a link to your project banner image -->
 
 ---
 
