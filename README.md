@@ -17,22 +17,5 @@ Welcome to **BeaconStories**, a project built with **HTML** and **CSS** to creat
 
 ---
 
-## Features
-
-- [Insert key feature #1]
-- [Insert key feature #2]
-- [Insert key feature #3]
-
----
-
-## Getting Started
-
-### Prerequisites
-
-To work with this project, you’ll need:
-
-- A modern web browser (e.g., Chrome, Firefox, Edge)
-- A text editor (e.g., VSCode, Sublime Text)
-
 ### Website
-We use a Github Page in the description.
+We use a Github Page; provided in the description.
